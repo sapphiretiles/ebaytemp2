@@ -23,10 +23,10 @@ p.footernew {font-size: 13px; font-family: 'Montserrat', sans-serif; letter-spac
 
 .borderDESC {border-style: solid; border-width: 0px 1px 1px 1px; border-color: #eee;}
 .fontDESC {color: #756c6c; font-size: 11px; font-family: 'Montserrat', sans-serif; letter-spacing: 1px;}
-.fontDESCmiddle {color: #000; font-size: 14px; font-family: 'Arial', sans-serif; letter-spacing: 2px; line-height: 1.5;}
+.fontDESCmiddle {color: #000; font-size: 14px; font-family: 'Arial', sans-serif; letter-spacing: 1px; line-height: 1.5;}
 .padding20 {padding: 20px;}
 .topfontDESC {color: white;}
-.MIDdescription{width:100%; margin: 0 auto; margin-top:0px; margin-bottom:4%;}
+.MIDdescription{width:100%; margin: 0 auto; margin-top:0px; margin-bottom:1%;}
 .descriptionWIDTH{width:55%; padding: 25px; margin: 0 auto; }
 
 .descriptionWIDTHrightMenu{width:80%; padding: 25px; margin: 0 auto; }
@@ -71,7 +71,7 @@ a.SENDmsg:hover {font-size:110%; text-decoration:underline;}
   padding: 20px;
   height: 70px; /* Should be removed. Only for demonstration */
   background-color: #484848;
-  font-size: 12px; 
+  font-size: 16px; 
   color: white;
   text-align: center;
 }
@@ -758,7 +758,7 @@ font-size: 8px;
 .desc_columns__middle {
     float: left;
     width: 100%;
-    padding: 20px;
+    padding: 20px, 20px, 20px, 0px;
 }
 .descriptionInfo {
     display: block;
