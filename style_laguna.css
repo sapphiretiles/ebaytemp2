@@ -642,7 +642,7 @@ h5:before {
 
 }
 .tab__content {
-text-align:justify;
+text-align:left;
   padding: 10px 10px;
   background-color: transparent;
   position: absolute;
