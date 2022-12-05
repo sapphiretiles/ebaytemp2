@@ -665,7 +665,7 @@ text-align:center;
 @media only screen and (max-width: 600px) {
     .tab__content div {
        width: 100%;
-	   line-height: 2.1;
+	   line-height: 1.1;
     }
 }	
 /* SIMILAR ITEMS */
